@@ -1,5 +1,4 @@
-setuptools~=70.0.0
--e .
-numpy~=1.26.4
-matplotlib~=3.8.4
-pillow~=10.3.0
+setuptools~=82.0.1
+numpy~=2.4.4
+matplotlib~=3.10.8
+pillow~=12.2.0
